@@ -1,1 +1,1 @@
-print("Hallo Pepi");
+print("Hallo Pepi und Maxi");
